@@ -1,19 +1,16 @@
 ### Hi there 👋, my name is Yusuf
 #### I am a Full-Stack Software Engineer
-![I am a Full-Stack Software Engineer](https://lh3.googleusercontent.com/83KsIJxptzzlQ31Pg3OwsqW5q_GzPzSP28ahms7ZkQes9qYGF3swDdG7iKLVYSt9MDI0-KUSc4_31KVYDGw5AEBDF93xB60KUycTu0igQE2s-ufG3zJuXKbM3qq2mVdBmLqGHaON45la-V4SuRksT6Uc0Fje327fbYGQ2LH9II90Nsord31bPwLydQeXFPRrNNsW6CKya0DKfWWyyqf65lT95ODF99URXp7URSZM944c6cSSORes-Jrqbq6nf5p4x4_lPUSrFZz8REDpDFQ6UXitvkMvIxyhDZR0DYn6mLdF1BsorbJjAx3VzOOmjcrtx3YiNbrt6XvTl2k0HLEG8B8jn1bXZPPA1XEMjbE-i8Jb3emPp0T88YSSg9pYDOx_Irsyj0QkS0JjhJtcvQ7LtQF00MhC8MYiOiJS9AcE2GRJgT-ZI4L42F7aOwDGP25RAz5ueRJbhfQI56sZC2hyttoLfue6ed46sqnWvRQGD2wDYL1Yx73nCov656m5nsnR-hLvVrErKUrqs6yW3EQk2aSI2Ce7qPIuKr-9pYKflz75SgHpuD0bSusXLtnKaLDkDOfabHbYrYFzhvFfU84MWs3Fc9_Y0QpWZD_xpZZJfnvuzUVyXwdZ8PqfCB8aezgQvEPv67eLJAuDfA5q6X_cFGmtC8uZ3b5o-A_bCJzJgJllaWQe2tXhBwsRR-qTTwbRTWB5EJMUfHX2WHPQzKM_pyftfifpml6vxRQE6C1Ef-CN5_dwo14j3jkhBk8MUsh7Mk4FsDTRVnjPtw7NrOL8EP1PLwReVUSfLXII_JCqGrOtzbBTpsJ31I9gvPBV9c0sTwUm9yg_ae7HeGc972H-A3gToAac554LWLajYMTYVbQSoxLp8YxN37tvt4kkoARxnlAdNSejL4TKrHMYryE_VahH4iePZJlVZtoSXIBpgnOEGCAD8VtN9cbNDrJ8R5TJL4VbXjUYudr9UpkY2mU=w1920-h876-no?authuser=1)
 
-I am Yusuf Mbonigaba, A Software Engineer.
+I am Yusuf Mbonigaba, a Full-Stack Software Engineer with expertise in HTML, CSS, JavaScript, Laravel, Spring Boot, NodeJS, Vue.js, ReactJS, Angular, Git, Pivot Tracker, Postman, Heroku, Docker, PHPUnit, JUnit, MochaJs, NoSQL databases (MongoDB, Firestore), SQL databases (MySQL, Postgres), Linux, and DevOps technologies (Github Actions, TeamCity). Currently, I am working on irembo.gov.rw and learning Kubernetes. 
 
-Skills: Java
+Work Experience:
 
-- 🔭 I’m currently working on irembo.gov.rw 
-- 🌱 I’m currently learning Kubernetes 
-- 📫 How to reach me: https://www.linkedin.com/in/yusuf-mbonigaba/ 
+- **Software Engineer at Irembo, Kigali** (Nov 2021 - Now): As a Full Stack Developer at Irembo, my primary responsibility is to work on the development and maintenance of the Irembo platform. This involves a wide range of activities, including adding new services to the platform, fixing bugs, and refactoring the codebase to improve performance, scalability, and maintainability.
 
+- **Application Developer at Energy Utility Corporation Limited, Kigali** (Oct 2020 - Oct 2021): As the Lead Backend Developer at REG/EUCL for the e-recruitment.reg.rw application, I was responsible for developing and leading the implementation of a robust and scalable backend system. I developed a REST API application using Spring Boot for the backend, which involved designing and developing new features, troubleshooting issues, and ensuring that the application was optimized for performance and reliability.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/@mbonigabay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/@mbonigabay)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yusuf-mbonigaba//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mbonigabayusuf.netlify.app/)  
+- **Fullstack Software Developer at VNG Technology Limited, Kigali** (May 2020 - Oct 2020): As the Lead Full Stack Developer at VNG Technology Ltd for the empeta.rw application, I was responsible for developing and leading the implementation of a comprehensive software application using Bootstrap 4 for the frontend and Spring MVC for the backend. This involved working with a team of developers to ensure that all aspects of the application were functional, reliable, and user-friendly.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@mbonigabay)](https://github.com/anuraghazra/github-readme-stats)
+- **Learning Facilitator at Nyabiheke Coding SChool, Gatsibo** (Jan 2020 - Mar 2020): As a Learning Facilitator at Nyabiheke Coding School in Gatsibo, I had the privilege of teaching programming to beginners through an initiative by Alight and Nyabiheke refugee camp. My role involved teaching courses in PHP, Java, and Python to students who had little or no prior programming experience.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=@mbonigabay&show_icons=true)  
-
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yusuf-mbonigaba/) or visit my [personal website](https://mbonigabayusuf.netlify.app/) to learn more about my work and projects. 
