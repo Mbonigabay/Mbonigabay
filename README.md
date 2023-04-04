@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Yusuf
 #### I am a Full-Stack Software Engineer
 
-I am Yusuf Mbonigaba, a Full-Stack Software Engineer with expertise in HTML, CSS, JavaScript, Laravel, Spring Boot, NodeJS, Vue.js, ReactJS, Angular, Git, Pivot Tracker, Postman, Heroku, Docker, PHPUnit, JUnit, MochaJs, NoSQL databases (MongoDB, Firestore), SQL databases (MySQL, Postgres), Linux, and DevOps technologies (Github Actions, TeamCity). Currently, I am working on irembo.gov.rw and learning Kubernetes. 
+I am Yusuf Mbonigaba, a Full-Stack Software Engineer with expertise in Laravel, Spring Boot, NodeJS, Vue.js, ReactJS, Angular, Git, Docker, Testing, NoSQL databases (MongoDB, Firestore), SQL databases (MySQL, Postgres), Linux, and DevOps technologies (Github Actions, TeamCity). Currently, I am working on irembo.gov.rw and learning Kubernetes. 
 
 Work Experience:
 
